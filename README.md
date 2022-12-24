@@ -7,7 +7,7 @@
 - [Youtube](https://www.youtube.com/ghanemzadeh)
 - [Linkedin](https://www.linkedin.com/in/ghanemzadeh/)
 - Twitter [(@ghanemzadeh)](https://twitter.com/ghanemzadeh)
-- and Instagram [(@ghanemzadeh)](https://www.instagram.com/ghanemzadeh/)
+- Instagram [(@ghanemzadeh)](https://www.instagram.com/ghanemzadeh/)
 
 <!---
 ghanemzadeh/ghanemzadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
