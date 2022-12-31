@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nasser @Ghanemzadeh
+- 👋 Hi, I’m Nasser Ghanemzadeh
 - 👀 I’m interested in Tech Product Management, Python, AI & ML
 - 🌱 I’m currently learning Machine Learning with Python, PyTorch and Scikit-Learn
 - 💞️ I’m looking to collaborate on AI/ML Products.
