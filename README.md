@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nasser Ghanemzadeh
 ==========================================================================================================================================
 
-Product Leader | AI/ML
+Product Leader (AI/ML) | Startup Executive
 ----------------------
 
 As a startup executive and product leader in the exciting world of AI, I am driven by a passion for creating innovative solutions.
