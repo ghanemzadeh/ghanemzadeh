@@ -9,7 +9,7 @@ As a startup executive and product leader in the exciting world of AI, I am driv
 * 🌍  I'm based in Turkey (Temporary)
 * ✉️  You can contact me at [ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com)
 * 🧠  I'm learning Machine Learning with Python, PyTorch and Scikit-Learn
-* 🤝  I'm open to collaborating on on AI/ML Products.
+* 🤝  I'm open to collaborating on AI/ML Products.
 * ⚡  I’m also interested in Tech Startups and Coaching CEOs.
 
 ### Skills
