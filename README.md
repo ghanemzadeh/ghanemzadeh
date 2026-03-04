@@ -8,18 +8,18 @@
 
 ### What I Do
 
-- **Product Leadership** — Owning vision, roadmap, and execution for AI-first products from zero-to-one through growth stage
-- **Shipping AI Products** — Integrating AI/ML into real user experiences — not demos, not prototypes, products with hundreds of thousands of users
-- **Building & Scaling Teams** — Hiring, structuring, and leading cross-functional product and engineering teams
+- **Product Leadership**: Owning vision, roadmap, and execution for AI-first products from zero-to-one through growth stage
+- **Shipping AI Products**: Integrating AI/ML into real user experiences, not demos, not prototypes, products with hundreds of thousands of users
+- **Building & Scaling Teams**: Hiring, structuring, and leading cross-functional product and engineering teams
 
 ---
 
 ### Track Record
 
-- 🚀 **Nivo (Acquired)** — CEO & CPO. Led an 8-dev, 2-PM team. 200K+ users, 450% revenue growth, 3 funding rounds, 4X valuation increase
-- 📱 **Pengouan** — Founding Head of Product. Built product and team from zero to 20K+ installs
-- 💡 **Finnova** — Co-Founder & MD. 20X ROI across 5 startup investments, secured $3.5M in seed funding for 11+ ventures
-- 🛠️ **Sengi.co** — Currently building a SaaS product end-to-end, solo
+- 🚀 **Nivo (Acquired)**: CEO & CPO. Led an 8-dev, 2-PM team. 200K+ users, 450% revenue growth, 3 funding rounds, 4X valuation increase
+- 📱 **Pengouan**: Founding Head of Product. Built product and team from zero to 20K+ installs
+- 💡 **Finnova**: Co-Founder & MD. 20X ROI across 5 startup investments, secured $3.5M in seed funding for 11+ ventures
+- 🛠️ **Sengi.co**: Currently building a SaaS product end-to-end, solo
 
 ---
 
