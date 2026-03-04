@@ -1,29 +1,36 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nasser Ghanemzadeh
-==========================================================================================================================================
+# Hi, I'm Nasser Ghanemzadeh 👋
 
-Product Leader (AI/ML) | Startup Executive
-----------------------
+**I build AI-powered products and help startups ship faster.**
 
-As a startup executive and product leader in the exciting world of AI, I am driven by a passion for creating innovative solutions.
+Product leader and startup executive with a focus on turning AI/ML into real, shipped products. Currently building [Sengi.co](https://sengi.co) — a SaaS product following a lean, ship-fast philosophy.
 
-* 🌍  I'm based in Turkey (Temporary)
-* ✉️  You can contact me at [ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com)
-* 🧠  I'm learning Machine Learning with Python, PyTorch and Scikit-Learn
-* 🤝  I'm open to collaborating on AI/ML Products.
-* ⚡  I’m also interested in Tech Startups and Coaching CEOs.
+---
 
-### Skills
+### What I Do
 
+- **Product & AI/ML** — Leading product strategy at the intersection of AI and real-world user problems
+- **Startup Building** — Designing and shipping SaaS products end-to-end, from idea to deployment
+- **CEO Coaching** — Helping early-stage founders sharpen their product thinking and go-to-market
+
+---
+
+### What I Work With
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
+---
 
-### Socials
+### Let's Connect
 
-<p align="left"> <a href="https://www.github.com/ghanemzadeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ghanemzadeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ghanemzadeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ghanemzadeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/ghanemzadeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://www.linkedin.com/in/ghanemzadeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/ghanemzadeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/ghanemzadeh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+✉️ [ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com)
