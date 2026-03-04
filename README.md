@@ -1,6 +1,6 @@
 # Hi, I'm Nasser Ghanemzadeh 👋
 
-**AI-First Product Leader — I turn AI/ML into products people actually use.**
+**AI-First Product Leader: I turn AI/ML into products people actually use.**
 
 17+ years leading product and cross-functional teams. Built AI-powered products used by 200,000+ people, drove 450% revenue growth, and took a startup from zero to acquisition. Currently building [Sengi.co](https://sengi.co) and serving as Founding Head of Product at Pengouan (20,000+ installs and growing).
 
