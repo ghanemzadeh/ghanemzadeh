@@ -2,7 +2,7 @@
 
 **AI-First Product Leader: I turn AI/ML into products people actually use.**
 
-17+ years leading product and cross-functional teams. Built AI-powered products used by 200,000+ people, drove 450% revenue growth, and took a startup from zero to acquisition. Currently building [Sengi.co](https://sengi.co) and serving as Founding Head of Product at Pengouan (20,000+ installs and growing).
+17+ years leading product and cross-functional teams. Built AI-powered products used by 200,000+ people, drove 450% revenue growth, and took a startup from zero to acquisition. Currently building [Vectig] (https://vectig.com/) and [Sengi.co](https://sengi.co) ,and serving as Founding Head of Product at Pengouan (20,000+ installs and growing).
 
 ---
 
