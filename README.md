@@ -82,14 +82,12 @@ Current daily-driver stack across Vectig and Sprint client work:
 
 ## 📊 GitHub
 
-<div>
-  <a href="https://github.com/ghanemzadeh">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ghanemzadeh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=2DD4BF&icon_color=2DD4BF" alt="Nasser's GitHub stats" />
-  </a>
-  <a href="https://github.com/ghanemzadeh">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanemzadeh&layout=compact&hide_border=true&theme=transparent&title_color=2DD4BF" alt="Top languages" />
-  </a>
-</div>
+<a href="https://github.com/ghanemzadeh">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ghanemzadeh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9" alt="Nasser's GitHub stats" />
+</a>
+<a href="https://github.com/ghanemzadeh">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanemzadeh&layout=compact&hide_border=true&bg_color=00000000&title_color=2DD4BF&text_color=c9d1d9" alt="Top languages" />
+</a>
 
 ---
 
