@@ -80,17 +80,6 @@ Current daily-driver stack across Vectig and Sprint client work:
 
 ---
 
-## 📊 GitHub
-
-<a href="https://github.com/ghanemzadeh">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ghanemzadeh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9" alt="Nasser's GitHub stats" />
-</a>
-<a href="https://github.com/ghanemzadeh">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanemzadeh&layout=compact&hide_border=true&bg_color=00000000&title_color=2DD4BF&text_color=c9d1d9" alt="Top languages" />
-</a>
-
----
-
 ## 🌍 Open to
 
 Based in İzmir, Türkiye. Building toward relocation. Open to senior AI product, Forward Deployed Engineer, or Head of Product roles at AI-native companies that can support visa sponsorship.
