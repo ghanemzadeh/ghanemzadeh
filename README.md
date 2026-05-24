@@ -98,6 +98,3 @@ The AI Feature Sprint is often a good way for both of us to see how I work first
 
 ✉️ [ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com)
 
----
-
-<img src="https://komarev.com/ghpvc/?username=ghanemzadeh&label=Profile%20views&color=2dd4bf&style=flat" alt="Profile views" />
