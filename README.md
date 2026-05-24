@@ -33,7 +33,7 @@ Weekly notes on Forward Deployed AI Engineering, AI-native product, and what I'm
 - **Pangouan** — Founding Head of Product. Zero to 20K+ installs.
 - **Finnova** — Co-Founder & MD. 20× ROI across 5 startup investments. $3.5M+ seed across 11 ventures.
 - **Sengi** — Built solo as a learning vehicle for AI-native financial tooling. Paused to focus on Vectig and the Sprint.
-- **Startups Ecosystem activities** — covered by Forbes, TechCrunch, and Al Jazeera
+- **Startups Ecosystem activities** — covered by Forbes, TechCrunch, and Al Jazeera.
 
 ---
 
