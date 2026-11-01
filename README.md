@@ -1,28 +1,36 @@
 # Nasser Ghanemzadeh
 
-**Forward Deployed AI Engineer.** I embed with founder-led B2B SaaS teams and take AI features from "demo" to shipped-in-production in 10 business days. I build my own products the same way — solo, in public, with Claude Code.
+**Forward deployed AI engineer. Founder of [Eupraxic](https://eupraxic.com/).** Through Eupraxic I embed with founder-led B2B SaaS teams for ten business days and ship their first autopilot: one workflow in the product that does the work instead of helping a user do it. I build my own product, Vectig, the same way, solo and in public with Claude Code.
 
 ## Now
 
-- **[AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/)** — a fixed-scope, 10-business-day engagement: one AI feature, scoped, built, and shipped inside your stack. Working prototype by Day 5, or half your money back.
-- **[Vectig](https://vectig.com)** — investor updates on autopilot. It connects to the tools you already use, remembers what you told investors last month, and hands you a 90% draft on the 1st of every month.
-- **[Forward Deployed AI Engineering](https://www.amazon.com/Forward-Deployed-AI-Engineering-Software/dp/B0H3VKKG38/)** — my book on the FDE role: the landscape, the method, the craft, and how to break in. 224 pages plus a workbook of engagement templates. Kindle & paperback.
-- **[Build Era](https://ghanemzadeh.substack.com/)** — my weekly newsletter. Notes from the edge of building: the lessons that only surface when you're actually in the work.
-- **[Founder Mode](https://ghanemzadeh.com/book/)** — the next book, in progress. First two chapters are free to read now.
+- **[The FDE Sprint](https://eupraxic.com/fde-sprint/)**, delivered through Eupraxic. One workflow, ten business days, fixed scope and a fixed price. The Brief is signed on Day 1, a prototype runs on your data by Day 5, and the pull request lands in your repo on Day 10. Full refund if there's no working prototype by Day 5, or if the workflow isn't running to its acceptance criteria by Day 10.
+- **[Vectig](https://vectig.com/)**. Investor updates and runway forecasting for early-stage founders, built solo with Claude Code, in public. It's the test bench for the Sprint: most workflow patterns I ship into a client's codebase have run in Vectig first.
+- **[Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/)**. 366 one-page meditations on mental models, misjudgment and money, for founders, investors and managers. Out now on Kindle, in paperback and in hardcover.
+- **[Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)**. The working guide to the FDE role: what the job is, how the work is done, and how to break in. 304 pages plus a workbook, Version 1.5 (August 2026).
+- **[Founder Mode](https://ghanemzadeh.com/book/)**. The history of calibrated founder involvement, from HP to NVIDIA, and what the great companies paid for it. The first two chapters are free now.
+- **[The newsletter](https://ghanemzadeh.com/newsletter/)**. Better judgment for founders who invest and investors who build: one real decision through one mental model, every week. Subscribe and the first two chapters of both books land in your first email.
 
 ## Before
 
-- **CEO & CPO, Nivo** (acquired) — B2B AI product with 200K+ users and 450% revenue growth; led an 8-dev, 2-PM team through 3 funding rounds to acquisition.
-- **Founding Head of Product, Pangouan** — took the product from zero to 20K+ installs.
-- **Co-founder, Iran Startups** (covered by Forbes, TechCrunch, and Al Jazeera) and **Finnova**, Iran's second-largest startup accelerator.
-- Earlier solo build: **Sengi**, a SaaS product built end-to-end — currently paused.
+17 years of product leadership across AI, SaaS and fintech.
+
+- **Nivo** (acquired). CEO and CPO at the same time. Built the product organization of a B2B fintech and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth. Led 8 developers and 2 PMs through 3 funding rounds to the acquisition.
+- **Pangouan**. Founding head of product. Joined before there was a product, a team or a user, built all three, and took it from zero to 20K+ installs.
+- **Finnova**. Founder and first managing director. A coworking space and accelerator for early-stage startups, and Iran's second-largest startup accelerator.
+- **Iran Startups**. Co-founder of the founder community. Earlier I ran [Techly](https://techly.me/), an English-language publication on the Iranian startup ecosystem, from 2014 to 2016.
+- **Sengi**. A financial OS for freelancers, built solo to learn AI-native financial tooling. Paused to focus on Vectig and the Sprint.
+
+Covered in Forbes, TechCrunch, Al Jazeera and HuffPost. Host of [The Great CEO Podcast](https://www.youtube.com/@ghanemzadeh).
 
 ## How I build
 
-TypeScript end to end: **Next.js · Hono · Drizzle · PostgreSQL · BullMQ**, in a **Turborepo** monorepo, shipped with **Docker** on **Hetzner** behind **Cloudflare**. **Claude Code + MCP** is the daily driver. **Stripe** for money.
+TypeScript end to end: **Next.js · Hono · Drizzle · PostgreSQL · BullMQ** in a **Turborepo** monorepo, shipped with **Docker** on **Hetzner** behind **Cloudflare**. **Claude Code and MCP** every day. **Stripe** for money.
+
+Every Sprint runs the same method: a one-sentence Brief signed on Day 1, an output rubric written before the code, and a pull request with the rubric, the config and a playbook your team keeps on Day 10.
 
 ## Work with me
 
-Running a B2B SaaS with an AI feature stuck between prototype and production? That is exactly what the **[AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/)** exists for — start with a Discovery Day, or just write to me.
+Have an AI prototype that worked on five examples and stalled, or an AI engineer role that's been open for more than a month? Score the workflow with the free two-minute [Workflow Scorecard](https://ghanemzadeh.com/scorecard/), then book a free [15-minute Scoping Call](https://ghanemzadeh.com/call/). The [FDE Sprint](https://eupraxic.com/fde-sprint/) page has the ten days, the price and the next kickoff.
 
-📫 ghanemzadeh@gmail.com · [ghanemzadeh.com](https://ghanemzadeh.com) · [LinkedIn](https://www.linkedin.com/in/ghanemzadeh) · [X](https://x.com/ghanemzadeh) · [Substack](https://ghanemzadeh.substack.com/)
+📫 ghanemzadeh@gmail.com · [ghanemzadeh.com](https://ghanemzadeh.com/) · [eupraxic.com](https://eupraxic.com/) · [LinkedIn](https://www.linkedin.com/in/ghanemzadeh/) · [X](https://x.com/ghanemzadeh) · [Substack](https://ghanemzadeh.substack.com/)
