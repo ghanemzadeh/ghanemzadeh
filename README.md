@@ -17,8 +17,8 @@
 
 - **Nivo** (acquired). CEO and CPO at the same time. Built the product organization of a B2B fintech and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth. Led 8 developers and 2 PMs through 3 funding rounds to the acquisition.
 - **Pangouan**. Founding head of product. Joined before there was a product, a team or a user, built all three, and took it from zero to 20K+ installs.
-- **Finnova**. Founder and first managing director. A coworking space and accelerator for early-stage startups, and Iran's second-largest startup accelerator.
-- **Iran Startups**. Co-founder of the founder community. Earlier I ran [Techly](https://techly.me/), an English-language publication on the Iranian startup ecosystem, from 2014 to 2016.
+- **Finnova**. Founder and first managing director of a coworking space and accelerator for early-stage startups.
+- **[Techly](https://techly.me/)**. Founder of an English-language startup publication, from 2014 to 2016.
 - **Sengi**. A financial OS for freelancers, built solo to learn AI-native financial tooling. Paused to focus on Vectig and the Sprint.
 
 Covered in Forbes, TechCrunch, Al Jazeera and HuffPost. Host of [The Great CEO Podcast](https://www.youtube.com/@ghanemzadeh).
